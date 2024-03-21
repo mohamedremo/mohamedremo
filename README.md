@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning X Code, Kotlin, IntelliJ
 - 💞️ Learning Process 5% from 100%
 - 📫 How to reach me mohamed.remo@outlook.de
-- ⚡ Fun fact: Music Producer too ^^ 
+- ⚡ Fun fact: Music Producer too  
 
 <!---
 mohamedremo/mohamedremo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
