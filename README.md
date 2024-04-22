@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamedremo
 - 👀 I’m interested in Technic, Coding, Games, AI
-- 🌱 I’m currently learning X Code, Kotlin, IntelliJ
+- 🌱 I’m currently learning IntelliJ
 - 💞️ Learning Process 5% from 100%
 - 📫 How to reach me mohamed.remo@outlook.de
 
