@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mohamedremo
-- 👀 I’m interested in Technic, Coding, Games, AI
-- 🌱 I’m currently learning IntelliJ
-- 💞️ Learning Process 5% from 100%
-- 📫 How to reach me mohamed.remo@outlook.de
+- 👋 Hi, I’m **@mohamedremo**
+- 👀 I’m interested in **Technic, Coding, Games, AI**
+- 🌱 I’m currently learning **Kotlin, Android  Studio**
+- 💞️ Learning Process **15%** from **100%**
+- 📫 How to reach me **mohamed.remo@outlook.de**
 
 <!---
 mohamedremo/mohamedremo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
