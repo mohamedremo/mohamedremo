@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@mohamedremo**
 - 👀 I’m interested in **Technic, Coding, Games, AI**
 - 🌱 I’m currently learning **Kotlin, Android  Studio**
-- 💞️ Learning Process **15%** from **100%**
+- 💞️ Learning Process **15%** from **100218410928310928310923123%**
 - 📫 How to reach me **mohamed.remo@outlook.de**
 
 <!---
