@@ -1,12 +1,34 @@
-- 👋 Hi, I’m **@mohamedremo**
-- 👀 I’m interested in **Technic, Coding, Games, AI**
-- 🌱 I’m currently learning **Kotlin, Android  Studio**
-- 💞️ Learning Process **15%** from **100218410928310928310923123%**
-- 📫 How to reach me **mohamed.remo@outlook.de**
-- ![Profilaufrufe](https://komarev.com/ghpvc/?username=mohamedremo&color=blue)
+# Hi there 👋, I'm Mohamed Remo
 
+![Profilaufrufe](https://komarev.com/ghpvc/?username=mohamedremo&color=blue)
 
-<!---
-mohamedremo/mohamedremo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Welle](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Willkommen!&fontSize=40&fontAlignY=40&animation=fadeIn)
+
+## 🌟 Über mich
+
+- 🔭 Ich arbeite gerade an einem Kotlin-Projekt in Android Studio.
+- 🌱 Ich lerne derzeit Kotlin, Swift und Android-Entwicklung.
+- 🎮 Interessen: Technik, Coding, Games, AI.
+
+## 🚀 GitHub-Statistiken
+
+![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=mohamedremo&show_icons=true&theme=radical)
+![Meistgenutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedremo&layout=compact&theme=radical)
+
+## 🛠️ Skills
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+## 📈 Letzte Aktivitäten
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedremo&theme=dark)
+
+## ✨ Fun Fact
+![Witz oder Zitat](https://readme-jokes.vercel.app/api)
+
+## 📫 Wie du mich erreichen kannst
+
+- [LinkedIn](https://www.linkedin.com/in/mohamed-remo-08835b2bb)
+- [E-Mail](mailto:mohamed.remo@outlook.de)
