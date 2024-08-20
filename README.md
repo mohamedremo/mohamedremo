@@ -7,7 +7,8 @@
 ## 🌟 Über mich
 
 - 🔭 Ich arbeite gerade an einem Kotlin-Projekt in Android Studio.
-- 🌱 Ich lerne derzeit Kotlin, Swift und Android-Entwicklung.
+- 🌱 Ich lerne derzeit Kotlin und Swift und habe wirklich Feuer für die Programmierung gefangen.
+- 🚀 Nächste Ziele: Compose, Swift, Flutter und Go lernen.
 - 🎮 Interessen: Technik, Coding, Games, AI.
 
 ## 🚀 GitHub-Statistiken
@@ -23,7 +24,7 @@
 
 ## 📈 Letzte Aktivitäten
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedremo&theme=dark)
+![GitHub Aktivitäten](https://github-readme-activity-graph.cyclic.app/graph?username=mohamedremo&theme=react-dark)
 
 ## ✨ Fun Fact
 ![Witz oder Zitat](https://readme-jokes.vercel.app/api)
