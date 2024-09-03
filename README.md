@@ -7,7 +7,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-![Welle](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi+there+👋,+I'm+Mohamed+Remo!&fontSize=40&fontAlignY=40&animation=fadeIn)
+![Welle](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi+there+👋&fontSize=40&fontAlignY=40&animation=fadeIn)
 
 
 
