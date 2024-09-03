@@ -20,8 +20,6 @@
 
 ## 🛠️ Skills
 ![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=mohamedremo&show_icons=true&theme=radical)
-![Meistgenutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedremo&layout=compact&theme=radical)
-
 
 
 ## ✨ Fun Fact
