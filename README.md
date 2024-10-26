@@ -12,8 +12,6 @@
 
 
 ## 🌟 Über mich
-
-- 🔭 Ich arbeite gerade an einem Kotlin-Projekt in Android Studio.
 - 🌱 Ich lerne derzeit Jetpack-Compose in Android-Studio
 - 🚀 Nächste Ziele: Swift, Flutter und Go lernen.
 - 🎮 Interessen: Technik, Coding, Games, AI.
