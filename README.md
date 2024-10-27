@@ -6,7 +6,6 @@
 - 🚀 Nächste Ziele: Swift, Flutter und Go lernen.
 - 🎮 Interessen: Technik, Coding, Games, AI.
 
-## 🛠️ Skills
 ![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=mohamedremo&show_icons=true&theme=radical)
 
 
