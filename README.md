@@ -7,10 +7,6 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-![Welle](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi+there+👋&fontSize=40&fontAlignY=40&animation=fadeIn)
-
-
-
 ## 🌟 Über mich
 - 🌱 Ich lerne derzeit Jetpack-Compose in Android-Studio
 - 🚀 Nächste Ziele: Swift, Flutter und Go lernen.
@@ -19,9 +15,6 @@
 ## 🛠️ Skills
 ![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=mohamedremo&show_icons=true&theme=radical)
 
-
-## ✨ Fun Fact
-![Witz oder Zitat](https://readme-jokes.vercel.app/api)
 
 ## 📫 Wie du mich erreichen kannst
 
