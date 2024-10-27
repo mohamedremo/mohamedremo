@@ -6,7 +6,7 @@
 - 🚀 Nächste Ziele: Kotlin Multiplatform
 - 🎮 Interessen: Technik, Coding, Games, AI.
 
-![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=mohamedremo&show_icons=true&theme=radical)
+![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=mohamedremo&show_icons=true&theme=tokyonight)
 
 
 ## 📫 Wie du mich erreichen kannst
