@@ -2,7 +2,7 @@
 ![Profilaufrufe](https://komarev.com/ghpvc/?username=mohamedremo&color=blue)
 
 ## 🌟 Über mich
-- 🌱 Ich lerne derzeit Jetpack-Compose, SwiftUI und Xcode
+- 🌱 Ich lerne derzeit Swift 🦅
 - 🚀 Nächste Ziele: Kotlin Multiplatform
 - 🎮 Interessen: Technik, Coding, Games, AI.
 
