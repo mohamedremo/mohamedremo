@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin Multiplatform 𐄂 (Kotlin ✓ Swift ✓ Flutter ?)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohamedremo](https://github.com/mohamedremo)
-
-- 💬 Ask me about **everything except my API-Keys**
+- 💬 Ask me about **everything**
 
 - 📫 How to reach me **mohamed.remo@outlook.de**
 
